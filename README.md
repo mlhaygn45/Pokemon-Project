@@ -3,4 +3,5 @@
 
 
  <h2>Screnn view</h2>
- ![](screnn.gif)
+ 
+ ![](screen.gif)

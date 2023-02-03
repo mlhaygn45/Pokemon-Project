@@ -2,5 +2,5 @@
  Used FETCH  ASYNC AWAİT  HTML/CSS/JS
 
 
- <h2>Screnn view</h2>s
+ <h2>Screnn view</h2>
  ![](screnn.gif)
